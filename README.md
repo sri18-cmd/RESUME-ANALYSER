@@ -1,1 +1,1 @@
-# ResumeAnalyser
+# ResumeAnalyzer
